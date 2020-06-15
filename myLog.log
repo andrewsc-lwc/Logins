@@ -1,0 +1,68 @@
+INFO:root:Our first message
+INFO 2020-06-15 13:58:42,496 - Our first message
+INFO 2020-06-15 14:02:13,044 - Login Program Started
+INFO 2020-06-15 14:02:16,412 - Login atrtempted
+INFO 2020-06-15 14:02:16,413 - Username and password database accessed
+WARNING 2020-06-15 14:02:16,446 - Failed login attempt recorded
+INFO 2020-06-15 14:02:16,446 - File closed
+INFO 2020-06-15 14:02:20,942 - Login atrtempted
+INFO 2020-06-15 14:02:20,943 - Username and password database accessed
+INFO 2020-06-15 14:02:21,308 - File closed
+INFO 2020-06-15 14:03:22,003 - Login Program Started
+INFO 2020-06-15 14:03:26,428 - Login attempted
+INFO 2020-06-15 14:03:26,428 - Username and password database accessed
+INFO 2020-06-15 14:03:26,470 - File closed
+INFO 2020-06-15 14:03:44,110 - Login Program Started
+INFO 2020-06-15 14:03:47,974 - Login attempted
+INFO 2020-06-15 14:03:47,974 - Username and password database accessed
+INFO 2020-06-15 14:03:48,029 - UserBobsigned in successfully
+INFO 2020-06-15 14:03:48,029 - File closed
+INFO 2020-06-15 14:05:32,751 - Login Program Started
+INFO 2020-06-15 14:05:36,430 - Login attempted
+INFO 2020-06-15 14:05:36,430 - Username and password database accessed
+INFO 2020-06-15 14:05:36,469 - UserBobsigned in successfully
+INFO 2020-06-15 14:05:36,469 - File closed
+INFO 2020-06-15 14:21:55,251 - Login Program Started
+INFO 2020-06-15 14:22:13,295 - Login Program Started
+INFO 2020-06-15 14:22:37,374 - Login Program Started
+INFO 2020-06-15 14:22:41,357 - Login Program Started
+INFO 2020-06-15 14:23:15,674 - Login Program Started
+INFO 2020-06-15 14:23:22,884 - Login Program Started
+INFO 2020-06-15 14:23:41,426 - Login Program Started
+INFO 2020-06-15 14:28:57,264 - Login Program Started
+INFO 2020-06-15 14:28:58,696 - Login attempted
+INFO 2020-06-15 14:28:58,697 - Username and password database accessed
+WARNING 2020-06-15 14:28:58,705 - Failed login attempt recorded
+INFO 2020-06-15 14:29:07,487 - Login Program Started
+INFO 2020-06-15 14:29:15,604 - Login attempted
+INFO 2020-06-15 14:29:15,604 - Username and password database accessed
+WARNING 2020-06-15 14:29:15,610 - Failed login attempt recorded
+INFO 2020-06-15 14:29:15,610 - File closed
+INFO 2020-06-15 14:29:16,605 - Login attempted
+INFO 2020-06-15 14:29:16,605 - Username and password database accessed
+WARNING 2020-06-15 14:29:16,621 - Failed login attempt recorded
+INFO 2020-06-15 14:29:16,621 - File closed
+INFO 2020-06-15 14:29:16,869 - Login attempted
+INFO 2020-06-15 14:29:16,869 - Username and password database accessed
+WARNING 2020-06-15 14:29:16,876 - Failed login attempt recorded
+INFO 2020-06-15 14:29:16,877 - File closed
+INFO 2020-06-15 14:29:17,060 - Login attempted
+INFO 2020-06-15 14:29:17,060 - Username and password database accessed
+WARNING 2020-06-15 14:29:17,085 - Failed login attempt recorded
+INFO 2020-06-15 14:29:17,085 - File closed
+INFO 2020-06-15 14:29:17,214 - Login attempted
+INFO 2020-06-15 14:29:17,214 - Username and password database accessed
+WARNING 2020-06-15 14:29:17,218 - Failed login attempt recorded
+INFO 2020-06-15 14:29:17,218 - File closed
+INFO 2020-06-15 14:29:21,088 - Login attempted
+INFO 2020-06-15 14:29:21,088 - Username and password database accessed
+INFO 2020-06-15 14:29:21,146 - User Bob signed in successfully
+INFO 2020-06-15 14:29:21,147 - File closed
+INFO 2020-06-15 14:29:22,275 - Login attempted
+INFO 2020-06-15 14:29:22,276 - Username and password database accessed
+INFO 2020-06-15 14:29:22,280 - User Bob signed in successfully
+INFO 2020-06-15 14:29:22,280 - File closed
+INFO 2020-06-15 14:29:22,462 - Login attempted
+INFO 2020-06-15 14:29:22,463 - Username and password database accessed
+INFO 2020-06-15 14:29:22,488 - User Bob signed in successfully
+INFO 2020-06-15 14:29:22,488 - File closed
