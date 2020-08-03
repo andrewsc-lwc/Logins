@@ -66,3 +66,9 @@ INFO 2020-06-15 14:29:22,462 - Login attempted
 INFO 2020-06-15 14:29:22,463 - Username and password database accessed
 INFO 2020-06-15 14:29:22,488 - User Bob signed in successfully
 INFO 2020-06-15 14:29:22,488 - File closed
+INFO 2020-08-03 20:00:18,389 - Login Program Started
+INFO 2020-08-03 20:00:27,371 - Login Program Started
+INFO 2020-08-03 20:00:30,763 - Login attempted
+INFO 2020-08-03 20:00:30,763 - Username and password database accessed
+INFO 2020-08-03 20:00:30,770 - User Bob signed in successfully
+INFO 2020-08-03 20:00:30,770 - File closed
