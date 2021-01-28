@@ -1,3 +1,4 @@
+#This is a comment at the top
 from tkinter import *
 
 root = Tk()
